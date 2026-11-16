@@ -120,7 +120,7 @@ Once you have finished editing locally:
 
 **Note**: Do not push directly to this remote repository (elvezjp/SDD). Only push to your forked repository.
 
-## Directory Structure
+## ディレクトリ構成
 
 ```
 SDD/
